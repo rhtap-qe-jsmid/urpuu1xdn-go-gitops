@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: urpuu1xdn-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/urpuu1xdn-go-gitops
